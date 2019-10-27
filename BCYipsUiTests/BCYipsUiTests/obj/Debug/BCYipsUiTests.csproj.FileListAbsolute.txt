@@ -1,0 +1,12 @@
+C:\Users\Gibran\documents\visual studio 2013\Projects\BCYipsUiTests\BCYipsUiTests\obj\Debug\BCYipsUiTests.csprojResolveAssemblyReference.cache
+C:\Users\Gibran\documents\visual studio 2013\Projects\BCYipsUiTests\BCYipsUiTests\bin\Debug\chromedriver.exe
+C:\Users\Gibran\documents\visual studio 2013\Projects\BCYipsUiTests\BCYipsUiTests\bin\Debug\BCYipsUiTests.dll
+C:\Users\Gibran\documents\visual studio 2013\Projects\BCYipsUiTests\BCYipsUiTests\bin\Debug\BCYipsUiTests.pdb
+C:\Users\Gibran\documents\visual studio 2013\Projects\BCYipsUiTests\BCYipsUiTests\bin\Debug\BCYipsCore.dll
+C:\Users\Gibran\documents\visual studio 2013\Projects\BCYipsUiTests\BCYipsUiTests\bin\Debug\nunit.framework.dll
+C:\Users\Gibran\documents\visual studio 2013\Projects\BCYipsUiTests\BCYipsUiTests\bin\Debug\WebDriver.dll
+C:\Users\Gibran\documents\visual studio 2013\Projects\BCYipsUiTests\BCYipsUiTests\bin\Debug\BCYipsCore.pdb
+C:\Users\Gibran\documents\visual studio 2013\Projects\BCYipsUiTests\BCYipsUiTests\bin\Debug\nunit.framework.xml
+C:\Users\Gibran\documents\visual studio 2013\Projects\BCYipsUiTests\BCYipsUiTests\bin\Debug\WebDriver.xml
+C:\Users\Gibran\documents\visual studio 2013\Projects\BCYipsUiTests\BCYipsUiTests\obj\Debug\BCYipsUiTests.dll
+C:\Users\Gibran\documents\visual studio 2013\Projects\BCYipsUiTests\BCYipsUiTests\obj\Debug\BCYipsUiTests.pdb

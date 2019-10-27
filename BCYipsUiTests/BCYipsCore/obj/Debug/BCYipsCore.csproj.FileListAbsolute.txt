@@ -1,0 +1,7 @@
+C:\Users\Gibran\documents\visual studio 2013\Projects\BCYipsUiTests\BCYipsCore\bin\Debug\BCYipsCore.dll
+C:\Users\Gibran\documents\visual studio 2013\Projects\BCYipsUiTests\BCYipsCore\bin\Debug\BCYipsCore.pdb
+C:\Users\Gibran\documents\visual studio 2013\Projects\BCYipsUiTests\BCYipsCore\bin\Debug\WebDriver.dll
+C:\Users\Gibran\documents\visual studio 2013\Projects\BCYipsUiTests\BCYipsCore\bin\Debug\WebDriver.xml
+C:\Users\Gibran\documents\visual studio 2013\Projects\BCYipsUiTests\BCYipsCore\obj\Debug\BCYipsCore.csprojResolveAssemblyReference.cache
+C:\Users\Gibran\documents\visual studio 2013\Projects\BCYipsUiTests\BCYipsCore\obj\Debug\BCYipsCore.dll
+C:\Users\Gibran\documents\visual studio 2013\Projects\BCYipsUiTests\BCYipsCore\obj\Debug\BCYipsCore.pdb
